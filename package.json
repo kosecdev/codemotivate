@@ -3,6 +3,7 @@
   "displayName": "CodeMotivate",
   "description": "Displays a motivational quote every time you open VS Code",
   "version": "0.0.1",
+  "publisher": "kosecdev",
   "engines": {
     "vscode": "^1.97.0"
   },
